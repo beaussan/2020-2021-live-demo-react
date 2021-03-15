@@ -2,11 +2,19 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import { Toaster } from 'react-hot-toast';
+// import { QueryClient, QueryClientProvider } from 'react-query';
+// import { ReactQueryDevtools } from 'react-query/devtools';
+
 // import reportWebVitals from './reportWebVitals';
+// const queryClient = new QueryClient();
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <>
+      <Toaster />
+      <App />
+    </>
   </React.StrictMode>,
   document.getElementById('root'),
 );

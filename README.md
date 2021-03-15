@@ -7,7 +7,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [CRA - create react app](https://create-react-app.dev/docs/adding-typescript)
 - [Tailwindcss](https://tailwindcss.com/)
   - [install witn CRA](https://tailwindcss.com/docs/guides/create-react-app)
--
+- [React Query](https://react-query.tanstack.com/)
+  - [Devtools](https://react-query.tanstack.com/devtools)
+  
+- [react testing library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Mock serverice worker](https://mswjs.io/)
+
+- [React hot toast](https://react-hot-toast.com/)
+
+- [radix](https://radix-ui.com/primitives/docs/overview/introduction)
+- [reach](https://reach.tech/)
+- [headlessUI](https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md)
 
 ## Available Scripts
 
