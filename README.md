@@ -9,8 +9,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [install witn CRA](https://tailwindcss.com/docs/guides/create-react-app)
 -
 
-
-
 ## Available Scripts
 
 In the project directory, you can run:
