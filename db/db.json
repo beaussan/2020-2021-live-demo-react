@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "done": true,
+      "title": "My first todo",
+      "id": 1
+    },
+    {
+      "title": "Todo 2",
+      "done": true,
+      "id": 2
+    }
+  ]
+}
